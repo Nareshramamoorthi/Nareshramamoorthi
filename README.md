@@ -30,6 +30,10 @@ const Nash = {
 };
 ```
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
+
 ---
 
 ### 🌌 **Tech Stack**
@@ -75,6 +79,11 @@ const Nash = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshramamoorthi&theme=tokyonight&border_radius=10&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&border=30363D" alt="GitHub Streak" />
+</div>
+
+<!-- Snake Animation Eating Contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nareshramamoorthi/Nareshramamoorthi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
