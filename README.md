@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naresh%20Ramamoorthi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=51"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF¢er=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+modern+web+applications;AI-driven+features+%2B+user-focused+design;Open+to+Full-Time+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+modern+web+applications;AI-driven+features+%2B+user-focused+design;Open+to+Full-Time+Opportunities!" alt="Typing Animation" />
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Nareshramamoorthi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -14,9 +14,9 @@
 <a href="https://nareshramamoorthi.github.io/Naresh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Open_to_Work-00C244?style=for-the-badge&logo=indeed&logoColor=white"/>
 
-<!-- Visitor Badge with Animation -->
+<!-- Welcome Message -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=14&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!" alt="Welcome message" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=14&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!" alt="Welcome" />
 
 </div>
 
@@ -130,8 +130,39 @@ const naresh = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/Naresh-portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=StudentManagementSystem&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/StudentManagementSystem)
+### 🛒 E-Commerce Web Application
+[![springboot-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/springboot-ecommerce)
+
+Full-stack e-commerce platform with **Spring Boot, Thymeleaf & MySQL**. Features user registration, product browsing, cart management, and admin dashboard.
+
+**Tech:** `Java` `Spring Boot` `MySQL` `Thymeleaf` `Bootstrap`
+
+---
+
+### 🚗 AI Traffic Violation Detection
+[![traffic-violation](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=traffic-violation-detection-system&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/traffic-violation-detection-system)
+
+AI-powered system using **computer vision** for real-time vehicle tracking, license plate recognition, and rule-based violation detection.
+
+**Tech:** `Python` `OpenCV` `TensorFlow` `License Plate Recognition`
+
+---
+
+### 📚 Learning Management System
+[![lms](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=learning-management-system-webapp&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/learning-management-system-webapp)
+
+Comprehensive LMS web application for course management, student tracking, and online learning.
+
+---
+
+### 💼 Portfolio Website
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/Naresh-portfolio)
+
+**Live:** [nareshramamoorthi.github.io/Naresh-portfolio](https://nareshramamoorthi.github.io/Naresh-portfolio/)
+
+Modern responsive portfolio showcasing projects and skills with smooth animations.
+
+**Tech:** `JavaScript` `HTML/CSS` `Responsive Design`
 
 </div>
 
@@ -141,14 +172,19 @@ const naresh = {
 
 <div align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. 📝 Committed to [Naresh-portfolio](https://github.com/Nareshramamoorthi/Naresh-portfolio)
+3. 🎉 Created repository [springboot-ecommerce](https://github.com/Nareshramamoorthi/springboot-ecommerce)
+4. 🔧 Updated profile README
+5. 📚 Working on AI/ML projects
+<!--RECENT_ACTIVITY:end-->
 
 </div>
 
 ---
 
-## 💭 Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
 
@@ -167,8 +203,6 @@ const naresh = {
 <a href="https://www.buymeacoffee.com/nareshramamoorthi">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
 </a>
-
-</div>
 
 </div>
 
