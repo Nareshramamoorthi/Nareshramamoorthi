@@ -131,8 +131,15 @@ const naresh = {
 
 ### 🛒 E-Commerce Web Application
 
-![E-Commerce Platform](https://images.unsplash.com/photo-6Pa7l0unTAY?w=800&auto=format&fit=crop)[![springboot-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/springboot-ecommerce)
+<div align="center">
 
+### 🛒💻 E-Commerce Platform
+
+🌟 **Modern Shopping Experience** 🌟
+
+</div>
+
+[![springboot-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/springboot-ecommerce)
 Full-stack e-commerce platform with **Spring Boot, Thymeleaf & MySQL**. Features user registration, product browsing, cart management, and admin dashboard.
 
 **Tech:** `Java` `Spring Boot` `MySQL` `Thymeleaf` `Bootstrap`
@@ -141,8 +148,15 @@ Full-stack e-commerce platform with **Spring Boot, Thymeleaf & MySQL**. Features
 
 ### 🚗 AI Traffic Violation Detection
 
-![AI Traffic Violation Detection](https://images.unsplash.com/photo-GFjyimhomaM?w=800&auto=format&fit=crop)
-[![traffic-violation](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=traffic-violation-detection-system&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/traffic-violation-detection-system)
+<div align="center">
+
+### 🚗🚦🎆 AI-Powered Traffic Safety
+
+🚨 **Real-time Violation Detection** 🚨
+
+</div>
+
+[![traffic-violation](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=traffic-violation-detection-system&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/traffic-violation-detection-system)[![traffic-violation](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=traffic-violation-detection-system&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/traffic-violation-detection-system)
 
 AI-powered system using **computer vision** for real-time vehicle tracking, license plate recognition, and rule-based violation detection.
 
@@ -152,8 +166,15 @@ AI-powered system using **computer vision** for real-time vehicle tracking, lice
 
 ### 📚 Learning Management System
 
-![Learning Management System](https://images.unsplash.com/photo-smgTvepind4?w=800&auto=format&fit=crop)
-[![lms](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=learning-management-system-webapp&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/learning-management-system-webapp)
+<div align="center">
+
+### 📚💻🎓 Online Education Hub
+
+✨ **Empowering Digital Learning** ✨
+
+</div>
+
+[![lms](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=learning-management-system-webapp&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/learning-management-system-webapp)[![lms](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=learning-management-system-webapp&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/learning-management-system-webapp)
 
 Comprehensive LMS web application for course management, student tracking, and online learning.
 
@@ -161,8 +182,15 @@ Comprehensive LMS web application for course management, student tracking, and o
 
 ### 💼 Portfolio Website
 
-![Portfolio Website - Developer Workspace](https://images.unsplash.com/photo-Xn3D8DIzH7Q?w=800&auto=format&fit=crop)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/Naresh-portfolio)
+<div align="center">
+
+### 🌐💼✨ Personal Portfolio
+
+🚀 **Showcasing Skills & Projects** 🚀
+
+</div>
+
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/Naresh-portfolio)[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/Naresh-portfolio)
 
 **Live:** [nareshramamoorthi.github.io/Naresh-portfolio](https://nareshramamoorthi.github.io/Naresh-portfolio/)
 
