@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=🚀+Naresh+Ramamoorthi+|+Nash&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+·+UI/UX+Designer+·+AI+Enthusiast&descSize=18&descAlignY=51&descAlign=50"/>
 
 <!-- Multiple Typing Animations for Cool Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=33B8F6¢er=true&vCenter=true&width=800&height=60&lines=💻+Crafting+elegant+solutions+with+clean+code;🚀+Building+the+future%2C+one+commit+at+a+time;✨+Minimal+·+Modern+·+Neon+Aesthetic;🎨+Design+meets+logic.+Creativity+meets+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=33B8F6&center=true&vCenter=true&width=800&height=60&lines=💻+Crafting+elegant+solutions+with+clean+code;🚀+Building+the+future%2C+one+commit+at+a+time;✨+Minimal+·+Modern+·+Neon+Aesthetic;🎨+Design+meets+logic.+Creativity+meets+code." alt="Typing SVG" />Building+the+future%2C+one+commit+at+a+time;✨+Minimal+·+Modern+·+Neon+Aesthetic;🎨+Design+meets+logic.+Creativity+meets+code." alt="Typing SVG" />
 
 <!-- Cool Interactive Badges -->
 <p>
@@ -185,7 +185,7 @@ availability: Open for freelance projects & collaborations
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=19&pause=400&color=28DCFD&center=true&width=600&lines=🌟+Thanks+for+visiting+my+profile!+🌟;💬+Feel+free+to+reach+out+for+collaborations;🚀+Let's+build+something+amazing+together!" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=19&pause=400&color=28DCFD&center=true&width=600&lines=🌟+Thanks+for+visiting+my+profile!+🌟;💬+Feel+free+to+reach+out+for+collaborations;🚀+Let's+build+something+amazing+together!" alt="Footer" />" alt="Footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 
