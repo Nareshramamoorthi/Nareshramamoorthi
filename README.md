@@ -37,8 +37,7 @@ const naresh = {
 ```
 
 - 👨‍💻 Building **scalable web applications** with modern tech stacks
-- 🎓 Recent **Computer Science** graduate
-- 💡 Passionate about **AI-driven features** and **clean UI/UX**
+- 🎓 Recent **Computer Science** graduate (Fresher) eager to contribute to innovative projects- 💡 Passionate about **AI-driven features** and **clean UI/UX**
 - 🎯 Currently learning **Cloud Deployment** (AWS, Azure)
 - 💬 Ask me about **Java, Spring Boot, React, Python**
 - ⚡ Fun fact: I love optimizing code performance!
@@ -131,7 +130,8 @@ const naresh = {
 <div align="center">
 
 ### 🛒 E-Commerce Web Application
-[![springboot-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/springboot-ecommerce)
+
+![E-Commerce Platform](https://images.unsplash.com/photo-6Pa7l0unTAY?w=800&auto=format&fit=crop)[![springboot-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/springboot-ecommerce)
 
 Full-stack e-commerce platform with **Spring Boot, Thymeleaf & MySQL**. Features user registration, product browsing, cart management, and admin dashboard.
 
@@ -140,6 +140,8 @@ Full-stack e-commerce platform with **Spring Boot, Thymeleaf & MySQL**. Features
 ---
 
 ### 🚗 AI Traffic Violation Detection
+
+![AI Traffic Violation Detection](https://images.unsplash.com/photo-GFjyimhomaM?w=800&auto=format&fit=crop)
 [![traffic-violation](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=traffic-violation-detection-system&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/traffic-violation-detection-system)
 
 AI-powered system using **computer vision** for real-time vehicle tracking, license plate recognition, and rule-based violation detection.
@@ -149,6 +151,8 @@ AI-powered system using **computer vision** for real-time vehicle tracking, lice
 ---
 
 ### 📚 Learning Management System
+
+![Learning Management System](https://images.unsplash.com/photo-smgTvepind4?w=800&auto=format&fit=crop)
 [![lms](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=learning-management-system-webapp&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/learning-management-system-webapp)
 
 Comprehensive LMS web application for course management, student tracking, and online learning.
@@ -156,6 +160,8 @@ Comprehensive LMS web application for course management, student tracking, and o
 ---
 
 ### 💼 Portfolio Website
+
+![Portfolio Website - Developer Workspace](https://images.unsplash.com/photo-Xn3D8DIzH7Q?w=800&auto=format&fit=crop)
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=radical&hide_border=true)](https://github.com/Nareshramamoorthi/Naresh-portfolio)
 
 **Live:** [nareshramamoorthi.github.io/Naresh-portfolio](https://nareshramamoorthi.github.io/Naresh-portfolio/)
