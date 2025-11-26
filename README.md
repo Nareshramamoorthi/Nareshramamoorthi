@@ -11,7 +11,7 @@
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/naresh-ramamoorthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://professional-portfol-7iu4.bolt.host/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
+<a href="https://nareshramamoorthi.github.io/Naresh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Open_to_Work-00C244?style=for-the-badge&logo=indeed&logoColor=white"/>
 
 </div>
