@@ -1,146 +1,183 @@
-<!-- ========================================================= -->
-<!--            NARESH RAMAMOORTHI — GITHUB PROFILE            -->
-<!--              Modern Soft-Neon Professional Theme          -->
-<!-- ========================================================= -->
+<!-- ============================================================================
+     NARESH RAMAMOORTHI - GITHUB PROFILE
+     Soft-Neon Cyberpunk Professional Theme
+     ============================================================================ -->
 
-<!-- Header -->
-<div align="left">
+<div align="center">
 
-# <span style="background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">Naresh Ramamoorthi</span>
+<!-- Hero Banner with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Naresh%20Ramamoorthi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20UI/UX%20Designer&descSize=16&descAlignY=51&descAlign=50"/>
 
-### Full Stack Developer · UI/UX Designer  
-Minimal, modern, and built with a soft neon aesthetic.
-
-</div>
+<!-- Typing Animation Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Crafting+elegant+solutions+with+clean+code;Building+the+future%2C+one+commit+at+a+time;Minimal+·+Modern+·+Neon+Aesthetic" alt="Typing SVG" />
 
 ---
 
-## 🔹 About Me
+### 🔷 **About Me**
 
-<img align="right" width="160" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" style="filter: drop-shadow(0 0 6px #6a11cb);">
-
-Hey, I’m **Nash** — a developer who loves building clean interfaces, scalable systems, and smooth digital experiences.  
-I mix creativity with logic and focus on writing code that feels as good as it looks.
-
-- 🚀 Currently building **E-commerce systems + modern UIs**  
-- 🎨 Passionate about **UI/UX + AI-powered design**  
-- 🧠 Learning advanced React patterns, AWS & Docker  
-- 🤝 Open to work: **Full Stack, Frontend, UI/UX**  
-- ✉️ Reach me: **nareshramamoorthi@gmail.com**
-
-<br clear="both"/>
-
----
-
-## 🔹 Tech Stack (Neon Icon Blocks)
-
-<div align="left">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="55" style="margin:6px; filter: drop-shadow(0 0 5px #6a11cb);" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,django" height="55" style="margin:6px; filter: drop-shadow(0 0 5px #2575fc);" />
-
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,docker" height="55" style="margin:6px; filter: drop-shadow(0 0 5px #6a11cb);" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" height="55" style="margin:6px; filter: drop-shadow(0 0 5px #2575fc);" />
-
-</div>
+```typescript
+const Nash = {
+    role: "Full Stack Developer & UI/UX Designer",
+    location: "Chennai, India 🇮🇳",
+    philosophy: "Creativity meets logic. Design meets code.",
+    passions: ["Clean Interfaces", "Scalable Systems", "Smooth UX"],
+    currentFocus: [
+        "Building E-commerce platforms with modern stacks",
+        "Exploring AI-powered design automation",
+        "Mastering React patterns & AWS deployment"
+    ],
+    availability: "Open to Full Stack, Frontend, UI/UX roles 💼"
+};
+```
 
 ---
 
-## 🔹 Featured Projects (Neon-Glow Cards)
+### 🌌 **Tech Stack**
 
-### 🌐 1. E-Commerce Platform (Spring Boot + React)
-<div style="border: 1px solid #6a11cb; padding: 15px; border-radius: 12px; box-shadow: 0 0 15px rgba(106,17,203,0.25);">
+<div align="center">
 
-**A complete shopping platform** with authentication, product management, cart, and order system.  
-**Tech:** Spring Boot, Java, React, MySQL  
-
-**Key Features:**  
-- Secure login & JWT auth  
-- Admin panel for product control  
-- Full cart & checkout workflow  
-
-🔗 **Repo:** https://github.com/Nareshramamoorthi/springboot-ecommerce  
-</div>
-
----
-
-### 🎨 2. Personal Portfolio (React + UI/UX)
-<div style="border: 1px solid #2575fc; padding: 15px; border-radius: 12px; box-shadow: 0 0 15px rgba(37,117,252,0.25);">
-
-A modern portfolio showcasing projects, skills, and UI design experience.  
-**Tech:** React, CSS, Responsive UI  
-
-**Key Features:**  
-- Smooth animations  
-- Clean project gallery  
-- Responsive & modern layout  
-
-🔗 **Live:** https://nareshramamoorthi.github.io/Naresh-portfolio  
-</div>
-
----
-
-### 🚗 3. AI Traffic Violation Detection
-<div style="border: 1px solid #6a11cb; padding: 15px; border-radius: 12px; box-shadow: 0 0 15px rgba(106,17,203,0.25);">
-
-Real-time vehicle detection + number plate extraction using computer vision.  
-**Tech:** Python, OpenCV, TensorFlow, Flask  
-
-**Key Features:**  
-- License plate recognition  
-- Violation tracking  
-- Auto-generated reports  
-
-🔗 **Repo:** https://github.com/Nareshramamoorthi  
-</div>
-
----
-
-## 🔹 GitHub Stats (Soft Neon Glow)
-
-<div align="left">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=tokyonight&hide_border=true&icon_color=6a11cb&title_color=6a11cb" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nareshramamoorthi&theme=tokyonight&hide_border=true&ring=6a11cb&fire=6a11cb&currStreakLabel=6a11cb" />
-
-</div>
-
----
-
-## 🔹 Contribution Graph (Neon Soft Grid)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshramamoorthi&bg_color=0d1117&color=6a11cb&line=2575fc&point=ffffff&area=true&hide_border=true" />
-
----
-
-## 🔹 Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+#### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
----
+#### **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-## 🔹 Connect With Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2575fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-ramamoorthi)  
-[![Email](https://img.shields.io/badge/Gmail-6a11cb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareshramamoorthi@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-6927ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nareshramamoorthi.github.io/Naresh-portfolio)
+#### **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
 
 </div>
 
 ---
 
-<div align="left">
-  
-### Thanks for visiting!  
-If you like my work, feel free to ⭐ my repositories!
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshramamoorthi&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&border_color=30363D"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshramamoorthi&theme=tokyonight&border_radius=10&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&border=30363D" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🚀 **Featured Projects**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <div align="center">
+        <a href="https://github.com/Nareshramamoorthi/springboot-ecommerce" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" alt="E-Commerce" />
+        </a>
+        <p><strong>Spring Boot · React · MySQL</strong></p>
+        <p>Complete shopping platform with auth, cart & admin panel</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Personal Portfolio</h3>
+      <div align="center">
+        <a href="https://nareshramamoorthi.github.io/Naresh-portfolio/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" alt="Portfolio" />
+        </a>
+        <p><strong>React · CSS · Responsive UI</strong></p>
+        <p>Modern portfolio with smooth animations & clean design</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 AI Traffic Violation Detection</h3>
+      <div align="center">
+        <a href="https://github.com/Nareshramamoorthi" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0D1117/3B82F6?text=AI+Traffic+Detection" alt="AI Project" />
+        </a>
+        <p><strong>Python · OpenCV · TensorFlow · Flask</strong></p>
+        <p>Real-time vehicle detection & license plate extraction</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Student Risk Analyzer</h3>
+      <div align="center">
+        <a href="https://github.com/Nareshramamoorthi" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0D1117/8B5CF6?text=AI+Risk+Analyzer" alt="AI Analyzer" />
+        </a>
+        <p><strong>AI · Data Analysis · Python</strong></p>
+        <p>Predictive analytics for student performance tracking</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📫 **Connect With Me**
+
+<div align="center">
+
+<p>
+  <a href="mailto:nareshramamoorthi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/naresh-ramamoorthi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nareshramamoorthi.github.io/Naresh-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Nareshramamoorthi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 💡 **Current Status**
+
+```yaml
+status: Actively seeking Full Stack Developer opportunities
+interests:
+  - Building scalable web applications
+  - UI/UX design with modern aesthetics
+  - AI integration in web platforms
+  - Open source contributions
+
+availability: Open for freelance projects & collaborations
+```
+
+---
+
+<div align="center">
+
+### 🌟 **"Code is poetry written in logic"**
+
+<img src="https://komarev.com/ghpvc/?username=Nareshramamoorthi&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 
 </div>
