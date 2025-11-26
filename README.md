@@ -1,15 +1,27 @@
 <!-- ============================================================================
-     NARESH RAMAMOORTHI - GITHUB PROFILE
-     Soft-Neon Cyberpunk Professional Theme
-     ============================================================================ -->
+   NARESH RAMAMOORTHI - GITHUB PROFILE
+   Soft-Neon Cyberpunk Professional Theme - ENHANCED VERSION
+   ============================================================================ -->
 
 <div align="center">
 
-<!-- Hero Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Naresh%20Ramamoorthi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20UI/UX%20Designer&descSize=16&descAlignY=51&descAlign=50"/>
+<!-- Hero Banner with Cool Gradient Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=🚀+Naresh+Ramamoorthi+|+Nash&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+·+UI/UX+Designer+·+AI+Enthusiast&descSize=18&descAlignY=51&descAlign=50"/>
 
-<!-- Typing Animation Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Crafting+elegant+solutions+with+clean+code;Building+the+future%2C+one+commit+at+a+time;Minimal+·+Modern+·+Neon+Aesthetic" alt="Typing SVG" />
+<!-- Multiple Typing Animations for Cool Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=33B8F6¢er=true&vCenter=true&width=800&height=60&lines=💻+Crafting+elegant+solutions+with+clean+code;🚀+Building+the+future%2C+one+commit+at+a+time;✨+Minimal+·+Modern+·+Neon+Aesthetic;🎨+Design+meets+logic.+Creativity+meets+code." alt="Typing SVG" />
+
+<!-- Cool Interactive Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=7a08aa" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-00EDFF?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=6f1fb0" />
+  <img src="https://img.shields.io/badge/Location-Chennai_🇮🇳-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<!-- Profile View Counter with Style -->
+<img src="https://komarev.com/ghpvc/?username=Nareshramamoorthi&label=Profile+Views&color=33B8F6&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
@@ -17,16 +29,16 @@
 
 ```typescript
 const Nash = {
-    role: "Full Stack Developer & UI/UX Designer",
-    location: "Chennai, India 🇮🇳",
-    philosophy: "Creativity meets logic. Design meets code.",
-    passions: ["Clean Interfaces", "Scalable Systems", "Smooth UX"],
-    currentFocus: [
-        "Building E-commerce platforms with modern stacks",
-        "Exploring AI-powered design automation",
-        "Mastering React patterns & AWS deployment"
-    ],
-    availability: "Open to Full Stack, Frontend, UI/UX roles 💼"
+  role: "Full Stack Developer & UI/UX Designer",
+  location: "Chennai, India 🇮🇳",
+  philosophy: "Creativity meets logic. Design meets code.",
+  passions: ["Clean Interfaces", "Scalable Systems", "Smooth UX"],
+  currentFocus: [
+    "Building E-commerce platforms with modern stacks",
+    "Exploring AI-powered design automation",
+    "Mastering React patterns & AWS deployment"
+  ],
+  availability: "Open to Full Stack, Frontend, UI/UX roles 💼"
 };
 ```
 
@@ -42,8 +54,9 @@ const Nash = {
 
 #### **Frontend Development**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-6BDAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=8f19fc" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=323330" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
@@ -51,39 +64,30 @@ const Nash = {
 
 #### **Backend Development**
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-43c466?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0e182a" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-#### **Tools & Platforms**
+#### **Design & Tools**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-</div>
+#### **Cloud & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
 
----
-
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshramamoorthi&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&border_color=30363D"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshramamoorthi&theme=tokyonight&border_radius=10&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&border=30363D" alt="GitHub Streak" />
-</div>
-
-<!-- Snake Animation Eating Contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nareshramamoorthi/Nareshramamoorthi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -92,75 +96,51 @@ const Nash = {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
-      <div align="center">
-        <a href="https://github.com/Nareshramamoorthi/springboot-ecommerce" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=springboot-ecommerce&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" alt="E-Commerce" />
-        </a>
-        <p><strong>Spring Boot · React · MySQL</strong></p>
-        <p>Complete shopping platform with auth, cart & admin panel</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Personal Portfolio</h3>
-      <div align="center">
-        <a href="https://nareshramamoorthi.github.io/Naresh-portfolio/" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshramamoorthi&repo=Naresh-portfolio&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" alt="Portfolio" />
-        </a>
-        <p><strong>React · CSS · Responsive UI</strong></p>
-        <p>Modern portfolio with smooth animations & clean design</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 AI Traffic Violation Detection</h3>
-      <div align="center">
-        <a href="https://github.com/Nareshramamoorthi" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/3B82F6?text=AI+Traffic+Detection" alt="AI Project" />
-        </a>
-        <p><strong>Python · OpenCV · TensorFlow · Flask</strong></p>
-        <p>Real-time vehicle detection & license plate extraction</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Student Risk Analyzer</h3>
-      <div align="center">
-        <a href="https://github.com/Nareshramamoorthi" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/8B5CF6?text=AI+Risk+Analyzer" alt="AI Analyzer" />
-        </a>
-        <p><strong>AI · Data Analysis · Python</strong></p>
-        <p>Predictive analytics for student performance tracking</p>
-      </div>
-    </td>
-  </tr>
-</table>
+| 🛍️ **E-Commerce Platform** | 🎨 **Personal Portfolio** |
+| --- | --- |
+| **Spring Boot · React · MySQL** | **React · CSS · Responsive UI** |
+| Full-featured e-commerce with cart, payments & admin panel | Modern portfolio with smooth animations |
+| [View Project](https://github.com/Nareshramamoorthi/springboot-ecommerce) | [Live Demo](https://professional-portfol-7iu4.bolt.host/) |
+
+| 🚦 **AI Traffic Violation System** | 📊 **Student Risk Analyzer** |
+| --- | --- |
+| **Python · OpenCV · TensorFlow · Flask** | **AI · Data Analysis · Python** |
+| Real-time vehicle detection & violation tracking | Predictive analytics for student performance |
+| [View Project](https://github.com/Nareshramamoorthi) | [View Project](https://github.com/Nareshramamoorthi) |
 
 </div>
 
 ---
 
-### 📫 **Connect With Me**
+### 📊 **GitHub Stats**
 
 <div align="center">
 
-<p>
-  <a href="mailto:nareshramamoorthi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/naresh-ramamoorthi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://nareshramamoorthi.github.io/Naresh-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Nareshramamoorthi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33B8F6&icon_color=00EDFF&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshramamoorthi&theme=tokyonight&hide_border=true&background=0D1117&stroke=33B8F6&ring=00EDFF&fire=FF6B6B&currStreakLabel=33B8F6" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshramamoorthi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33B8F6&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nareshramamoorthi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 📈 **Contribution Graph**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nareshramamoorthi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=33B8F6&line=00EDFF&point=FF6B6B" alt="Contribution Graph" />
 
 </div>
 
@@ -181,11 +161,31 @@ availability: Open for freelance projects & collaborations
 
 ---
 
+### 🌐 **Connect With Me**
+
 <div align="center">
 
-### 🌟 **"Code is poetry written in logic"**
+<p>
+  <a href="https://professional-portfol-7iu4.bolt.host/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-neonblue?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=7a08aa" />
+  </a>
+  <a href="mailto:nareshramamoorthi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nareshramamoorthi@gmail.com-neonblue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34d7c4" />
+  </a>
+  <a href="https://www.linkedin.com/in/naresh-ramamoorthi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Nash-neonblue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a043b" />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Nareshramamoorthi&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
+</div>
+
+---
+
+### ✨ **Code is poetry written in logic** ✨
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=19&pause=400&color=28DCFD&center=true&width=600&lines=🌟+Thanks+for+visiting+my+profile!+🌟;💬+Feel+free+to+reach+out+for+collaborations;🚀+Let's+build+something+amazing+together!" alt="Footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 
