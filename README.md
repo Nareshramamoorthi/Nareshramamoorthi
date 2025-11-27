@@ -188,3 +188,77 @@ availability: Open for freelance projects & collaborations
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 
 </div>
+
+
+---
+
+### 🏆 **Achievements & Badges**
+
+<div align="center">
+
+<!-- GitHub Statistics -->
+<a href="https://github.com/Nareshramamoorthi">
+  <img src="https://img.shields.io/badge/Repositories-10-33B8F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories" />
+</a>
+
+<a href="https://github.com/Nareshramamoorthi?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-4-00EDFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" />
+</a>
+
+<a href="https://github.com/Nareshramamoorthi?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Collector-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars" />
+</a>
+
+<!-- Contribution Badge -->
+<img src="https://img.shields.io/badge/Contributions-Active-2ECC71?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Contributions" />
+
+<!-- Portfolio Badge -->
+<a href="https://professional-portfol-7iu4.bolt.host/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-FF6B6B?style=for-the-badge&logo=link&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+</a>
+
+<!-- LeetCode Badge (Placeholder - update with your profile) -->
+<img src="https://img.shields.io/badge/LeetCode-500%2B-FFA500?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode" />
+
+<!-- Open Source Contributor Badge -->
+<img src="https://img.shields.io/badge/Open_Source-Contributor-9B59B6?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Open Source" />
+
+<!-- Learning Badge -->
+<img src="https://img.shields.io/badge/Learning-AI%2FML-3498DB?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="Learning" />
+
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=dark&bg_color=0D1117&title_color=33B8F6&text_color=ffffff&icon_color=00EDFF&border_color=33B8F6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshramamoorthi&layout=compact&theme=dark&bg_color=0D1117&title_color=33B8F6&text_color=ffffff&border_color=33B8F6)
+
+</div>
+
+---
+
+### 🎯 **Goals for 2025**
+
+- 🚀 Contribute to 5+ open-source projects
+- 💼 Secure a Full Stack Developer role
+- 🤖 Build 2-3 AI-powered applications
+- 📚 Master AWS cloud deployment
+- 🎨 Create 10+ portfolio projects
+- ⭐ Reach 50+ GitHub followers
+
+---
+
+<div align="center">
+
+### 💬 **Let's Connect!**
+
+[LinkedIn](https://www.linkedin.com/in/naresh-ramamoorthi/) • [Email](mailto:nareshramamoorthi@gmail.com) • [Portfolio](https://professional-portfol-7iu4.bolt.host/)
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me.** 🚀
+
+</div>
