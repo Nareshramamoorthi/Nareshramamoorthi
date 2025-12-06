@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=🚀+Naresh+Ramamoorthi+|+Nash&fontSize=45&fontColor=fff&animation=twinkling&fontAlign=32&desc=Full+Stack+Developer+•+UI/UX+Designer+•+AI+Enthusiast&descSize=18&descAlign=51&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=🚀+Naresh+Ramamoorthi+|+Nash&fontSize=45&fontColor=fff&animation=twinkling&fontAlign=32"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=80&color=33B8F6&center=true&vCenter=true&width=800&height=60&lines=Crafting+elegant+solutions+with+clean+code;Building+the+future+one+commit+at+a+time;Minimal+Modern+Neon+Aesthetic;Design+meets+logic+Creativity+meets+code" alt="Typing SVG" />
