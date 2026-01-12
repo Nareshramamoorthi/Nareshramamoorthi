@@ -127,13 +127,23 @@ Predictive analytics for student performance
 ## 📊 **GitHub Stats**
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33B8F6&icon_color=00EDFF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nareshramamoorthi&theme=tokyonight&hide_border=true&background=0D1117&stroke=33B8F6&ring=00EDFF&fire=FF6B6B&currStreakLabel=33B8F6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshramamoorthi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33B8F6&text_color=FFFFFF)
-
+  <h3>⚡ Performance Metrics</h3>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nareshramamoorthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33B8F6&icon_color=00EDFF&text_color=FFFFFF)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nareshramamoorthi&theme=tokyonight&hide_border=true&background=0D1117&stroke=33B8F6&ring=00EDFF&fire=FF6B6B&currStreakLabel=33B8F6)
+  
+  <h3>🎯 Most Used Languages</h3>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshramamoorthi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33B8F6&text_color=FFFFFF&card_width=445)
+  
+  <h3>💡 Key Metrics</h3>
+  
+  ![Total Commits](https://img.shields.io/badge/Total%20Commits-202+-33B8F6?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+  ![Repositories](https://img.shields.io/badge/Repositories-12-00EDFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+  ![Languages](https://img.shields.io/badge/Languages-6+-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117)
+  
+</div>
 </div>
 
 ---
