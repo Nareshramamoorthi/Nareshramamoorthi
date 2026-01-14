@@ -114,7 +114,7 @@ Fresh graduate developer passionate about building **production-ready applicatio
 
 ---
 
-## Goals for 2025
+## Goals for 2026
 
 - ✓ Secure first full-time developer role
 - ✓ Contribute to 5+ open-source projects
